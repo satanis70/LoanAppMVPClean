@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">LoanAppMVPClean</string>
+    <string name="nextButtonSlider" translatable="false">Далее</string>
+    <string name="skipSlider" translatable="false">Пропустить</string>
+    <string name="Title1" translatable="false">Получить займ</string>
+    <string name="Description1" translatable="false">Нажмите на 3 полоски в левом верхнем углу экрана.\nДалее в меню нажмите "Получить займ"</string>
+    <string name="Title2" translatable="false">Укажите некоторые данные</string>
+    <string name="Description2" translatable="false">Укажите: \n1. Сумму займа \n2. Ваше имя \n3. Вашу фамилию \n4. Телефонный номер</string>
+    <string name="empty_allLoans">Список займов пуст</string>
+    <string name="input_login">Введите логин</string>
+    <string name="input_password" translatable="false">Введите пароль</string>
+    <string name="button_registration" translatable="false">Регистрация</string>
+    <string name="max_amount">Максимальная сумма:</string>
+    <string name="percent">Процент:</string>
+    <string name="max_amountTv">Максимальный срок пользования:</string>
+    <string name="change_amount">Выберете сумму с помощью бегунка</string>
+    <string name="input_name">Введите ваше имя</string>
+    <string name="input_lastname">Введите вашу фамилию</string>
+    <string name="input_phone">Введите ваш номер телефона</string>
+    <string name="button_getLoan">Получить</string>
+    <string name="amount_recycler">Сумма займа</string>
+    <string name="state_recycler">Cтатус займа</string>
+    <string name="date_recycler">Дата займа</string>
+    <string name="input_login_signIn">Введите логин</string>
+    <string name="input_password_signIn">Введите пароль</string>
+    <string name="button_signIn">Войти</string>
+    <string name="get_loan_navView">Получить займ</string>
+    <string name="dark_itemView">Написать в тех поддержку</string>
+    <string name="change_lang">Выбрать язык</string>
+    <string name="validatePass" translatable="false">Пароль должен быть не менее 5 символов</string>
+    <string name="inputCorrectEmail">Введите корректный e-mail</string>
+    <string name="inputCorrectPassword">Пароль должен быть не менее 5 символов</string>
+    <string name="inputLoginPassword">Введите логин и пароль</string>
+    <string name="succesulRegistration">Вы успешно зарегестрированы"</string>
+    <string name="dublicateRegistration">Вы уже зарегестрированы!</string>
+    <string name="chooseTheme">Выбор темы</string>
+    <string name="loginerror">Логин или пароль введен не правильно</string>
+    <string name="succesulLogin">Успех!"</string>
+
+</resources>
